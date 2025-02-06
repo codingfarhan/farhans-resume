@@ -1,13 +1,13 @@
 const nexumeConfig = {
 	meta: {
-		title: "John Doe's resume",
-		description: "John Doe's resume using nexume.",
+		title: "Farhan's resume",
+		description: "Farhan - Full Stack Engineer",
 		icon: '/favicon.ico',
-		images: '/og_img.png',
+		images: '/profile_img.jpeg',
 		url: 'http://localhost:3000'
 	},
 	layout: {
-		profileImg: '/profile_img.png',
+		profileImg: '/profile_img.jpeg',
 		width: 794,
 		color: '#8A5CF5'
 	}
