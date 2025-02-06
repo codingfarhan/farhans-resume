@@ -2,7 +2,7 @@ const nexumeConfig = {
 	meta: {
 		title: "Farhan's resume",
 		description: "Farhan - Full Stack Engineer",
-		icon: '/favicon.ico',
+		icon: '/profile_img.jpeg',
 		images: '/profile_img.jpeg',
 		url: 'http://localhost:3000'
 	},
